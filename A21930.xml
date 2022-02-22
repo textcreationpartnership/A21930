@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene where in the Parliament holden at Westminster, the second day of Aprill, in the xiii yere of the reign of our soueraign Lady the Queene, there was for the reliefe of diuers poore ... an acte for the continuance of making cappes ...</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1597</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21930</idno>
+            <idno type="STC">STC 8261.5</idno>
+            <idno type="STC">ESTC S3744</idno>
+            <idno type="EEBO-CITATION">33150887</idno>
+            <idno type="OCLC">ocm 33150887</idno>
+            <idno type="VID">28803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1874:100)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene where in the Parliament holden at Westminster, the second day of Aprill, in the xiii yere of the reign of our soueraign Lady the Queene, there was for the reliefe of diuers poore ... an acte for the continuance of making cappes ...</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By the Deputies of Christopher Barker, Printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1597.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information from first 7 lines of text.</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor laws --  England.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Broadsides --  London (England) --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28803:1"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here in the Parliament holden at Weſtminſter, the ſecond day of Aprill, in the xiii. yere of the reign of our ſoueraign Lady the Queene, there was for the reliefe of diuers poore decayed towns, &amp; of great multitudes of her poore ſubiects, who otherwiſe were likely to periſh, or to become vnprofitable and dangerous to the common weale, among other prouided &amp; eſtabliſhed, one good &amp; beneficiall ſtatute, entituled, An acte for the continuance of making of cappes. By meane of which ſtatute, great numbers of idle, poore, and im<g ref="char:EOLhyphen"/>potent perſons were for a ſeaſon ſet on worke, while the awe of the ſaid ſta<g ref="char:EOLhyphen"/>tute, and feare of due execution thereof continued, to the marueilous great commoditie of this Realme, and helpe of the needie, and redreſſe of yll occupied perſons, as by the experience thereof hath bene manifeſtly proued. And whereas neuertheles by litle and litle, the diſobedience and wan<g ref="char:EOLhyphen"/>ton diſorder of euil diſpoſed and light perſons, more regarding priuate fancie and vanitie, then publike com<g ref="char:EOLhyphen"/>moditie or reſpect of duetie, hath increaſed by want of execution of the ſayd law, whereby thoſe good and ho<g ref="char:EOLhyphen"/>neſt ſubiects that haue by meanes of the ſayd ſtatute, ſet to worke a great number of poore people, are like to be driuen to giue ouer their ſayd trade of making caps, and to ſend abroad againe into idleneſſe and miſery, thoſe multitudes that haue bene by them relieued: whereby is likely to grow great enormity and inconue<g ref="char:EOLhyphen"/>nience, if ſpeedy remedy therefore be not in time prouided. The Queenes moſt excellent Maieſty therefore tenderly conſidering the premiſſes, ſtraitly chargeth and commaundeth all Juſtices of Aſſiſes, Juſtices of peace, Maiors, Shirifes, Bailiffes, and other head officers of Cities, Boroughs, and Townes corporate, and the Lord, Stewards, Bailiffes, and other officers of Leetes, Lawdayes, and liberties, and all and ſinguler Conſtables, Third boroughs, Tithingmen, Churchwardens, and all other her highneſſe ſubiects, to whom the executing or putting in vre of the ſame ſtature any way may appertayn, that euery one of them according to his office, place, and calling, doe their vttermoſt endeuour for the due execution of the ſayd ſtatute: and that they the ſayd Bayliffes, Conſtables, Thirdboroughs, Tithingmen, Churchwardens, and all other in<g ref="char:EOLhyphen"/>ferior officers, and euery of them, doe euery Sunday, and feſtiuall day, make diligent view and ſearch in all Churches, Chappels, and al other places within the circuites and compaſſes of their offices and authorities, for all and ſinguler breakers and offenders of the ſaide ſtatute, and without delay cauſe the names of al ſuch offendours, and of the parents, gardians, gouernours, and maſters of euery child, ſeruant, and warde, ſo of<g ref="char:EOLhyphen"/>fending, together with the day and place of the offence committed, to be then written, and to be lawfully and orderly preſented, at ſuch Aſſiſes, Seſſions, or Courts (next after ſuch offences) as haue authority to enquire or determine the ſaid offences: And that all Maiors, Shirifes, and Bailifes of Cities, Boroughs &amp; Towns corporate, and all lords of Leetes, Lawdayes, and Liberties, doe immediatly vpon the proclamation hereof, call before them all the ſayd Conſtables, Third boroughs, Tithingmen, Churchwardens, inferiour Bailifs, and all other the aboueſaid inferiour officers, that ſhal be vnder their charge of gouernment, and them and euery of them forthwith in our names doe ſtraitly charge and command, that they, and euery of them, to the vttermoſt of their powers, do euery Sonday and feſtiuall day, make ſuch diligent view and ſearch, and ſuch note alſo of the names of al ſuch offenders, &amp; ſuch preſentment of all ſuch offences as is aboueſaid: And that all Juſtices of Aſſiſes, and Juſtices of peace in their Circuits and Seſſions, &amp; al Stewards in their Leetes, vpon paine of her Maieſties high diſpleaſure, omit not in any wiſe from time to time, ſpecially to giue in charge, and cauſe to be inquired of all offences againſt the ſayd ſtatute committed or to be committed within their ſeuerall precincts or iuriſdictions, and alſo do duely heare and determine the ſame, puniſhing euery of the ſaid offenders according to the ſaid ſtatute: And that al the ſaid lords &amp; owners of Leets and Lawdayes doe as much as in euery of them ſhall lie, to cauſe their ſtewards throughly to execute their office and autho<g ref="char:EOLhyphen"/>ritie, according to the ſame ſtatute, and that vpon euery ſuch offence founde, both the ſaid owners of Leets, and alſo the rulers and cheife gouernours of euery Citie, Borough, Towne, or Hamlet, where any ſuch of fence ſhall be tried and found, ſhall doe their vttermoſt indeuour by the Law to recouer, haue, and obteine of euery ſuch offender, all the penalties to them or any of them, by the ſayd ſtatute forfeited, or to be forfeited.</p>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by the Deputies of CHRISTOPHER BARKER, <hi>Printer to the Queenes moſt excellent Maieſtie.</hi> 1597.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
